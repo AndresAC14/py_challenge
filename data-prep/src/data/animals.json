@@ -1,0 +1,7002 @@
+[
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8966201999039332,
+    "weight": 52.24459269017381,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8706797949691645,
+    "weight": 84.60897838524227,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.15161222204761285,
+    "weight": 7.855076329135008,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8244980251754452,
+    "weight": 75.80098064612017,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.2798996229876738,
+    "weight": 46.75735618425883,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9035229468519068,
+    "weight": 47.982965818844505,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.20441782493412353,
+    "weight": 4.021878019596831,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.751970920254935,
+    "weight": 57.94896902423142,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.43249489564603305,
+    "weight": 3.074873428006364,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.18358413469335155,
+    "weight": 23.514495090456794,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.35207325083986674,
+    "weight": 2.9701325541627264,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 7.730683407886919,
+    "weight": 985.2215206607577,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5622654220997921,
+    "weight": 29.139326049151613,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.066455905196147,
+    "weight": 5617.827347871771,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8436524022667953,
+    "weight": 48.556932409904846,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.881411588547493,
+    "weight": 3760.775655172395,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.079306683380988,
+    "weight": 6224.263256816181,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.201404308666059,
+    "weight": 6061.696943316221,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6843931374345307,
+    "weight": 87.14548571675272,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.2244192904189492,
+    "weight": 2.1152997332663506,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.22715268150060264,
+    "weight": 11.460980082752245,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4114548340782902,
+    "weight": 1.8205700230273352,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.22676226570504915,
+    "weight": 4.189749055839144,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9023128630134951,
+    "weight": 83.05514548333329,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.174950634283038,
+    "weight": 4415.287857238642,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5352041312855671,
+    "weight": 37.24191619109717,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8721133641026073,
+    "weight": 45.72758714918433,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.41900955643010607,
+    "weight": 1.4531504942282414,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.8738140986329936,
+    "weight": 6701.408488340645,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.49016083460453996,
+    "weight": 3.2090486346537452,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9482074279347068,
+    "weight": 54.92223957243164,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.606026949009175,
+    "weight": 5878.796440323151,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8395778337840916,
+    "weight": 64.43028540144739,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.45755265723811445,
+    "weight": 3.49922359873059,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6963486369788934,
+    "weight": 68.3678471844455,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6848958123256602,
+    "weight": 77.27178275367073,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.584268403404789,
+    "weight": 4643.714225824545,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3346858255963889,
+    "weight": 2.562250478480184,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.1045245858090182,
+    "weight": 4315.6668899889455,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3033350293700764,
+    "weight": 2.191668226231164,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.526983047730447,
+    "weight": 2690.447318030353,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.4763998466967334,
+    "weight": 5643.7160701583525,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9621680052024513,
+    "weight": 82.98177001268732,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.7178447649284467,
+    "weight": 4687.28234634711,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.2952381248290927,
+    "weight": 37.62837602115061,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6387723256915294,
+    "weight": 61.552559120318875,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7174089888913302,
+    "weight": 4.752438197725385,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6242450696308055,
+    "weight": 76.41067942205913,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6994625335681144,
+    "weight": 49.510445422040576,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.2547718643353186,
+    "weight": 36.81630336947594,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7772522980213827,
+    "weight": 83.06745523809153,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8608579575994089,
+    "weight": 67.02939690501525,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 1,
+    "height": 9.263669830081277,
+    "weight": 848.6957344143054,
+    "has_wings": true,
+    "has_tail": false
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.2395388506868916,
+    "weight": 6480.504321695359,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9941235375118904,
+    "weight": 53.260152908607594,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.32396947568390577,
+    "weight": 55.18243303261276,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.23526184118636362,
+    "weight": 23.79156430132329,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8991902241516256,
+    "weight": 42.85826364537415,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.5206228259585295,
+    "weight": 4783.662537071699,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.838014042580011,
+    "weight": 73.76062768020451,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9766384508916357,
+    "weight": 68.48377050690925,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8477526041328414,
+    "weight": 60.961245766793624,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.47714719020774954,
+    "weight": 0.8873310472001823,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.706396916152905,
+    "weight": 3162.7766131480626,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.3450004934648607,
+    "weight": 59.52136265453056,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5523882937353031,
+    "weight": 44.695001182657265,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.920237377703401,
+    "weight": 3169.563252575809,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9517080969938172,
+    "weight": 58.4763544369442,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3640872180040825,
+    "weight": 4.146851243897952,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8671452814850333,
+    "weight": 67.73011412448389,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9755720015708416,
+    "weight": 46.71455571966838,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8969666735923996,
+    "weight": 47.772395488749524,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.10867484655353,
+    "weight": 3475.468443008048,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3268931703342955,
+    "weight": 1.0824177723669692,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6369193870850935,
+    "weight": 61.17878862818632,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7334226154420354,
+    "weight": 46.54098303508511,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.1296955084296583,
+    "weight": 4972.225810843483,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.644749552235734,
+    "weight": 87.25254695233195,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.955575357392915,
+    "weight": 6188.758585509871,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.852510174463887,
+    "weight": 2779.8640901260887,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.95956985461059,
+    "weight": 50.503826916987705,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7414714538458473,
+    "weight": 67.99417595719348,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.2939298020869052,
+    "weight": 3617.9705285862424,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.2544604221503586,
+    "weight": 2706.5813561622117,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.42383527365167106,
+    "weight": 1.7509619123541178,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.70745708153908,
+    "weight": 5985.710389282525,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9434373005351127,
+    "weight": 51.12168587728322,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.3677677286232247,
+    "weight": 64.91210590626761,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.491061346884292,
+    "weight": 3430.458089809147,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9867556416193444,
+    "weight": 53.956249636093574,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5920723204849794,
+    "weight": 66.72740131685833,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6461367007405712,
+    "weight": 88.5200305511114,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.16339001907364195,
+    "weight": 2.520526134513981,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.30273785935471276,
+    "weight": 4.134373840704964,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.696703030463338,
+    "weight": 5647.776720486934,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 5,
+    "height": 6.868571469145267,
+    "weight": 940.2631203975533,
+    "has_wings": true,
+    "has_tail": false
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3681043934812432,
+    "weight": 2.798682063693461,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.32749287641234415,
+    "weight": 2.813275159792153,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3440443671833778,
+    "weight": 0.835630307117984,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5905762027854584,
+    "weight": 71.37023534000774,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.29212630906535697,
+    "weight": 3.5077978798127916,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.852600453490953,
+    "weight": 5093.934559141433,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.43041449144980803,
+    "weight": 53.53673780542284,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.0563771630485954,
+    "weight": 3820.281541470018,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.18268552002644692,
+    "weight": 4.000174594789655,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.2286242330990509,
+    "weight": 0.8659779099407386,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 9.839360227818513,
+    "weight": 611.2739730606801,
+    "has_wings": true,
+    "has_tail": false
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.1093278647941,
+    "weight": 4251.10740978883,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.053891629889488,
+    "weight": 2623.8427179935366,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.91136816270693,
+    "weight": 50.94205684061597,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.16414850189563585,
+    "weight": 20.062064953307775,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.22067059177877965,
+    "weight": 36.97449414361158,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.48251386295510457,
+    "weight": 3.7480061291488496,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6947870354105623,
+    "weight": 43.507948122950026,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.43604743492789755,
+    "weight": 59.514477740290154,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.41803478950400785,
+    "weight": 2.2071711208028897,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3039554076427159,
+    "weight": 3.007487263049828,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.2618983489465668,
+    "weight": 2.285653702344334,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.810901410263891,
+    "weight": 3257.0626462817363,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.40716757137327897,
+    "weight": 43.094974529557355,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.211273140713034,
+    "weight": 4274.750294467847,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9426928129215737,
+    "weight": 78.27972880590347,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9770966629736386,
+    "weight": 54.93063261861917,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.49598998597495747,
+    "weight": 58.168773769374084,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.904524235019723,
+    "weight": 3773.6218405820036,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.35856808971490006,
+    "weight": 53.812637974725455,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.218050040125677,
+    "weight": 6554.028968876597,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9627715450347074,
+    "weight": 69.59463878139555,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8570998592037342,
+    "weight": 46.784974361528214,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.704062525567722,
+    "weight": 56.36763334708671,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.41643039776290947,
+    "weight": 1.6153024353934993,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.3015446416120188,
+    "weight": 6.929639271788941,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 5,
+    "height": 0.5208560824325548,
+    "weight": 951.919692381921,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9016932816238106,
+    "weight": 87.48058663579944,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8485342626344632,
+    "weight": 51.92724709444529,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8255878327720076,
+    "weight": 50.898227045325186,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.20872620017873078,
+    "weight": 2.5649713170679487,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.911116754470173,
+    "weight": 48.188290508359955,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9715548673628487,
+    "weight": 68.7898364206207,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.3997250202313066,
+    "weight": 56.62865434638327,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.5606921618469194,
+    "weight": 5921.6678052902635,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9184908866400847,
+    "weight": 68.2966277683658,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 5,
+    "height": 4.283780132347444,
+    "weight": 370.5708762180562,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.20176643203791905,
+    "weight": 75.92182402634442,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6109698777201323,
+    "weight": 34.685740883102646,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.36556932391874286,
+    "weight": 3.865368305686219,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.42619065524264815,
+    "weight": 57.8855578229521,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.209350606812637,
+    "weight": 2972.6504616394,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.1379238908260354,
+    "weight": 5050.353472116785,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.16004499921953136,
+    "weight": 3.5795166575687674,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.785794219896725,
+    "weight": 3710.9153580923157,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3445268597718543,
+    "weight": 2.187719248889271,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.1108664510527326,
+    "weight": 4700.884741449785,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5692139718238476,
+    "weight": 39.02947480366901,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.717694232528199,
+    "weight": 60.2200564338964,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.31564117106583367,
+    "weight": 2.2472279993598314,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.2731336846649589,
+    "weight": 1.9259415292577822,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.5773837374295523,
+    "weight": 3428.1124618415247,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.640471465979385,
+    "weight": 5776.000010088488,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4931787206618795,
+    "weight": 3.5032318765305837,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.21280454028989115,
+    "weight": 0.09589965288699373,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.1659304953441264,
+    "weight": 0.26399182225490614,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.0377039930442757,
+    "weight": 5837.006355902391,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.829625687850533,
+    "weight": 63.46984724652551,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.329292902393082,
+    "weight": 3685.657079119782,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9288462581197723,
+    "weight": 60.03537211259699,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6606908027803826,
+    "weight": 80.55710381375238,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9975672490840881,
+    "weight": 45.92257811057308,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.1603672503314133,
+    "weight": 4235.625512430162,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.451058333039163,
+    "weight": 4.15850013732328,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8438523648980523,
+    "weight": 77.00446527422724,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.026708377061877,
+    "weight": 3737.9783387470316,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.624694058010527,
+    "weight": 2922.7789362750223,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 6.893711357847689,
+    "weight": 469.9124790076859,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.39604564533280096,
+    "weight": 1.927132411832521,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4257398093263559,
+    "weight": 2.639116483824656,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.8483736798327484,
+    "weight": 4941.618228455489,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4393209058775208,
+    "weight": 0.33427915083075427,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3582654130617916,
+    "weight": 3.4683123743951985,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.2145604875588016,
+    "weight": 54.561222310149354,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.32516526199127394,
+    "weight": 2.092669498133586,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9557691557169814,
+    "weight": 76.72669616428077,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6365307546523942,
+    "weight": 88.09555510964184,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9998289667509805,
+    "weight": 73.61407921516196,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9052436016686822,
+    "weight": 48.75953639689863,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.752929495790202,
+    "weight": 14.746898057015384,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7889575605246786,
+    "weight": 37.395816004387605,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3845467283324149,
+    "weight": 3.607742871988668,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.32598810084578994,
+    "weight": 74.69769285571203,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7819303634406918,
+    "weight": 55.7258578585084,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7181391971552777,
+    "weight": 65.25678545659302,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 5,
+    "height": 4.61976344982144,
+    "weight": 54.20408537672861,
+    "has_wings": false,
+    "has_tail": false
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6814232953401096,
+    "weight": 67.46098195426659,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7289756998033078,
+    "weight": 38.54987606057485,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 5,
+    "height": 7.993137332744706,
+    "weight": 709.7828251002592,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6898802637823138,
+    "weight": 82.07028408085178,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8590838755135035,
+    "weight": 47.6985562214164,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.32810520527432907,
+    "weight": 1.1752678450173604,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.2957370161310941,
+    "weight": 43.774308535116866,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.2389839716414435,
+    "weight": 3787.863832134776,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.361115165317721,
+    "weight": 62.33581635249709,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7131355933131307,
+    "weight": 54.92779248858836,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.718377204396165,
+    "weight": 35.55397035389077,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3431710959747838,
+    "weight": 2.299299352096956,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4543605891319239,
+    "weight": 4.11996479023759,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.28882246331936734,
+    "weight": 61.38024129529182,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 7.052278810250026,
+    "weight": 811.4089025648768,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6504985079237555,
+    "weight": 88.26767950884269,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9496761496217234,
+    "weight": 62.015310488533856,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.14043636658237724,
+    "weight": 11.816200153405378,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.536597140936901,
+    "weight": 5960.558752474007,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5718889237539053,
+    "weight": 67.36357544952928,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7788149229834198,
+    "weight": 49.70373555212704,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7232204518310047,
+    "weight": 3.3180793372583963,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4990990730346754,
+    "weight": 3.14578838472999,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.904147877197706,
+    "weight": 75.1945414664519,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.0876610348859788,
+    "weight": 6484.7234668170895,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 1,
+    "height": 2.933677759652088,
+    "weight": 374.84108977531486,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.6212854476706067,
+    "weight": 2939.563907837977,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.9129238546074765,
+    "weight": 5107.575661803828,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3108496747118558,
+    "weight": 2.8130579059803593,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7428224080472405,
+    "weight": 53.692454527377734,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7727602317555593,
+    "weight": 78.03065807465,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5994131884728878,
+    "weight": 36.36161129442124,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7102681118889264,
+    "weight": 8.872281492655333,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3511841755625258,
+    "weight": 4.1695769776187745,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.3166466585211949,
+    "weight": 44.92542783102237,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9642467814874842,
+    "weight": 77.25860770669851,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.42150934286118324,
+    "weight": 0.9949828616098432,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.036589911425244,
+    "weight": 5269.832001460308,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.0291408122813395,
+    "weight": 6484.635927513762,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4260136694035538,
+    "weight": 0.17589654357556783,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.550218704414135,
+    "weight": 3868.9749420053677,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.648707367238568,
+    "weight": 5982.005087431173,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.33579833079597476,
+    "weight": 3.8398462747673046,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.46991713373840915,
+    "weight": 3.967653878412638,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.41129577275096574,
+    "weight": 1.4470716015772527,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6563028060023532,
+    "weight": 88.32501047313761,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7877434281640221,
+    "weight": 63.66013005561411,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.1394646854686128,
+    "weight": 42.620926199121136,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.35459603207825807,
+    "weight": 3.460723225007061,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8699346221501287,
+    "weight": 63.57384339907193,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4703395680601058,
+    "weight": 0.9585516539080206,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7483835941309667,
+    "weight": 24.221928700546144,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.5103586618019103,
+    "weight": 2760.0121513662316,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6388767994487288,
+    "weight": 84.36296542642512,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.3822878305310803,
+    "weight": 75.02639032033457,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5293914349730531,
+    "weight": 57.53803331874346,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9334772333185286,
+    "weight": 70.78261070255782,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.1614507003992664,
+    "weight": 1.5795162182114546,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.2313506720422995,
+    "weight": 3027.2248858063604,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.17119253120831307,
+    "weight": 1.185494438306786,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.1923379281959142,
+    "weight": 17.150306510730086,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6202314042651493,
+    "weight": 56.6754578216258,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.531063036013677,
+    "weight": 5890.176716320913,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.193617153197742,
+    "weight": 3601.894319897935,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7109099383902733,
+    "weight": 89.20140659238695,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4294798382451682,
+    "weight": 0.49462338626372027,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.483225691235331,
+    "weight": 5996.934056209442,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.15552337922890608,
+    "weight": 1.141724937156864,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.4877381580865497,
+    "weight": 59.034724090168666,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3296332851632171,
+    "weight": 0.4909918436460089,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8908971988654941,
+    "weight": 85.43758439532701,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3103148827341887,
+    "weight": 4.050241000337006,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7061630093537251,
+    "weight": 33.962479113479354,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.17997368672118635,
+    "weight": 6.842052476747166,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6504766353220226,
+    "weight": 71.21587471406039,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.2833165395864823,
+    "weight": 2.5239422931947417,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.19744135394174855,
+    "weight": 55.5896843558662,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.852762248083084,
+    "weight": 6418.79139455052,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.40113652529472826,
+    "weight": 57.77458184930859,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3827877520711081,
+    "weight": 1.5952151605621399,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.17565064953292048,
+    "weight": 65.79409324527607,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8978355876767516,
+    "weight": 58.63234296879518,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8345860330957908,
+    "weight": 68.07932069960361,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7643234531688634,
+    "weight": 83.68036861171592,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7203026612309642,
+    "weight": 57.10326328157273,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.2730761649926021,
+    "weight": 2.442874792056966,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.2824865109931446,
+    "weight": 8.99514298129043,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.19020985973560786,
+    "weight": 1.1966794686166817,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7047055097032836,
+    "weight": 77.0019082668681,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.843597966221226,
+    "weight": 72.89156139994442,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6721664287843419,
+    "weight": 75.13493864328024,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.2728581972579436,
+    "weight": 0.7921913388389233,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.1773180864488688,
+    "weight": 58.666071140795964,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8984447048022828,
+    "weight": 50.75664400167555,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.20509324654578104,
+    "weight": 1.3343463700786529,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9533368738073373,
+    "weight": 47.77899517022442,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8695874842452453,
+    "weight": 53.605142177310945,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5428116850598905,
+    "weight": 33.01342342379389,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7380691421923449,
+    "weight": 45.54448861004653,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.4883151928607385,
+    "weight": 24.71092226032363,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6030748343599532,
+    "weight": 55.07096810092184,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.1501031972275104,
+    "weight": 3844.6226642349816,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6379696039322421,
+    "weight": 14.29204194725362,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.91523348843503,
+    "weight": 6183.423070405476,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.758828469698919,
+    "weight": 77.10206636872226,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7563904554616405,
+    "weight": 68.1756360685472,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6124592938668754,
+    "weight": 33.288975847713225,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9864798764132505,
+    "weight": 48.593659028903446,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6957776208887609,
+    "weight": 72.70192551169869,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6973265899290935,
+    "weight": 69.4435644151456,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.72195660301288,
+    "weight": 59.045678877471325,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.537977645950989,
+    "weight": 5322.866067963201,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.2762712311062447,
+    "weight": 4102.313641531236,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.680279275562585,
+    "weight": 3229.710138594086,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.1465916130367337,
+    "weight": 5418.688745230578,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.4454880865888533,
+    "weight": 44.7532354380962,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.45248640619099567,
+    "weight": 2.6481060649237502,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7875684334105493,
+    "weight": 71.56925600127147,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7407768890480306,
+    "weight": 43.709532808664385,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6227560203335811,
+    "weight": 81.58483158315607,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8460033553662294,
+    "weight": 65.35339086669775,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7798934814603626,
+    "weight": 80.49079588489855,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3617520419245225,
+    "weight": 2.1241920776965815,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.2003812765438663,
+    "weight": 71.08145646552822,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.801819600600383,
+    "weight": 48.627945571818245,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.8038704953998835,
+    "weight": 41.6393814238587,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.2804981937354645,
+    "weight": 1.2146859677718216,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.38761420219585335,
+    "weight": 0.2549976495023941,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.1730691489979011,
+    "weight": 0.4304282595053377,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.23819852473815362,
+    "weight": 3.5820703403150755,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.7666922120938953,
+    "weight": 5105.779912721604,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.25858110814313423,
+    "weight": 2.768155791184098,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.9995866930549013,
+    "weight": 6633.409458132772,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5675754190856973,
+    "weight": 26.285409508906344,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8584099282933952,
+    "weight": 61.17031831610518,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.2581031245223583,
+    "weight": 3.996717852500707,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.2605635588917827,
+    "weight": 78.99816475658774,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4455499360400591,
+    "weight": 0.45804899914944336,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.864771694948567,
+    "weight": 83.8196386271371,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.23489187769836267,
+    "weight": 14.696408422742683,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.11185286804683,
+    "weight": 2787.877440204412,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.332933857033676,
+    "weight": 5225.560315141008,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.28912200214808864,
+    "weight": 19.274727033773278,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7447025499334716,
+    "weight": 15.730269833471732,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.4439423853398727,
+    "weight": 22.61908101724637,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7870623441800442,
+    "weight": 64.62596230712735,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.246971708852819,
+    "weight": 2824.37315402232,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3440892608985509,
+    "weight": 0.46408105326862814,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7140252056237315,
+    "weight": 78.15584151458455,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.2096315795879855,
+    "weight": 2994.3683495341015,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7315482461282451,
+    "weight": 73.54204627941257,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.4713648379914001,
+    "weight": 19.008578798279462,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.22858856551249057,
+    "weight": 1.363685136497231,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4269832231187616,
+    "weight": 0.6098270837028038,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6033289522316689,
+    "weight": 11.395226307727617,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5484368148712129,
+    "weight": 71.60981289460676,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 8.34963099282381,
+    "weight": 548.8042454438354,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.7380245631817357,
+    "weight": 2805.3226204610605,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.1727088626875234,
+    "weight": 66.17998606751881,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.852781976805257,
+    "weight": 68.75237287653168,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.30023361258616676,
+    "weight": 2.5964522930962826,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.2573734600229001,
+    "weight": 52.954869879191335,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.1736877630180961,
+    "weight": 2.226985470876196,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7561814930240258,
+    "weight": 63.5067539079243,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.23877759137422444,
+    "weight": 0.10461640810654896,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.2343940735349756,
+    "weight": 2.772525617245091,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.1966933564507774,
+    "weight": 1.5036209289733709,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.2090414545196064,
+    "weight": 5544.135035558629,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5595803764756697,
+    "weight": 64.2025680250371,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.15514897733584748,
+    "weight": 16.32489293768102,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7262383280198903,
+    "weight": 55.50379414684459,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.30225336033777983,
+    "weight": 59.633337127280896,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.45174848566423764,
+    "weight": 0.23600819456814362,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.1935662528855342,
+    "weight": 1.5690638226719837,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7383534965694363,
+    "weight": 30.851614308464335,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6006065739565782,
+    "weight": 29.336733766335033,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.43040183059062076,
+    "weight": 3.0638395532383926,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.955472213636727,
+    "weight": 3981.2091413227545,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.25727354963176335,
+    "weight": 2.545713836242487,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.36905194896495463,
+    "weight": 3.8248802837351676,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3651980187695675,
+    "weight": 1.8476573185397234,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6300164659952638,
+    "weight": 71.87562689416492,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.317982562688851,
+    "weight": 3213.951713958964,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.15366329674300858,
+    "weight": 5.777819000375541,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.27675270389019724,
+    "weight": 3.989631586756106,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 6.790620569133949,
+    "weight": 948.8235292655564,
+    "has_wings": false,
+    "has_tail": false
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.941219294567298,
+    "weight": 4311.5463975955345,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.3248628465158436,
+    "weight": 2711.427365715816,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7512089039529669,
+    "weight": 9.744238146018004,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.2759078892881294,
+    "weight": 48.53235884694594,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.26612127187396173,
+    "weight": 11.154680791846388,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.269824337399745,
+    "weight": 4513.978128792556,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.38374392667113877,
+    "weight": 2.9908170466299455,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.46196608882386114,
+    "weight": 3.581220217285263,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.1763897816220523,
+    "weight": 4787.649704249494,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.174938449513915,
+    "weight": 3617.965592433543,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.34390750304085826,
+    "weight": 1.572777181981582,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.0146340427322635,
+    "weight": 2970.7265711033106,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.4874730452846041,
+    "weight": 60.87941720441379,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6501307129036777,
+    "weight": 55.8513835230241,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5924741136417151,
+    "weight": 27.544410285161927,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.153325657248314,
+    "weight": 3154.841718526621,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9325563225870166,
+    "weight": 65.9051066462008,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.7571680685275544,
+    "weight": 5650.1281698757575,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.44607679715455295,
+    "weight": 1.080269901292062,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.19380960329441593,
+    "weight": 1.297658835231251,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.9967095163317787,
+    "weight": 5096.7799549030915,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4448855014396861,
+    "weight": 2.383341877337484,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.632489141957348,
+    "weight": 87.42734269851957,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.37789549211995993,
+    "weight": 3.229850320814603,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7992152240544466,
+    "weight": 71.35820051490421,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.31903068636139675,
+    "weight": 3.386916786000097,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.30874044653430993,
+    "weight": 2.903698298874631,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.45929076847300426,
+    "weight": 16.515806564726798,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4515197768913731,
+    "weight": 1.366314142588329,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.491380944770208,
+    "weight": 0.581379488912585,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.727646354561263,
+    "weight": 63.32362835203182,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.5953810951572835,
+    "weight": 2817.602754741248,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.2988237906592069,
+    "weight": 68.42663888507634,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.47681303733729163,
+    "weight": 3.0390576491864936,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.9134563324333187,
+    "weight": 4813.316808695383,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.32407959556662813,
+    "weight": 0.41187438266727416,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7873469087756834,
+    "weight": 17.388837168309927,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7125425353494115,
+    "weight": 69.87593855050932,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.32430889937989194,
+    "weight": 1.1419263668584125,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.2553856005175477,
+    "weight": 5728.284672445385,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.16583483807894261,
+    "weight": 0.24996945257546357,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3436280243174031,
+    "weight": 0.3431126741794505,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4388589612855147,
+    "weight": 2.631554691884663,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.3378237057182676,
+    "weight": 4293.785964733011,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.34524114339524503,
+    "weight": 1.5590193316856027,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.47005297442803784,
+    "weight": 4.056313168665366,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.43138804931797414,
+    "weight": 2.1989820731166256,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.7618896043965084,
+    "weight": 5236.192920578115,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3578036294708453,
+    "weight": 2.1489522875559977,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6119430683760978,
+    "weight": 24.033559331886977,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.2659338577526229,
+    "weight": 0.49328390605237676,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.42886418487555145,
+    "weight": 3.0565246968533737,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8387638463812774,
+    "weight": 53.27652184928607,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.112046099943713,
+    "weight": 5109.150091304851,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.23048748164422567,
+    "weight": 53.93706126147829,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 1,
+    "height": 1.9078432782692734,
+    "weight": 441.03856618473293,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.835235894297208,
+    "weight": 5932.380897770491,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8823100928607062,
+    "weight": 65.93416057800565,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.4873244629520241,
+    "weight": 25.129579000918646,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.34119562673569054,
+    "weight": 2.85064088420416,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.363526803027563,
+    "weight": 0.8373957361161379,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.22870346329748584,
+    "weight": 4.087226942659539,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3967153278928043,
+    "weight": 2.910468751839296,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.3671861584568885,
+    "weight": 73.79547941950784,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.25072628142428344,
+    "weight": 2.4243839345259843,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6864966728887825,
+    "weight": 75.43679577622972,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.16472327039145393,
+    "weight": 4.013971006698684,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5760609943746171,
+    "weight": 59.16607222786339,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4765583768241577,
+    "weight": 2.9351611245927227,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.6857876541851553,
+    "weight": 5480.286049040347,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.516717085087122,
+    "weight": 4377.1958740075115,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.872476794632572,
+    "weight": 46.873351709984775,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.8321476318767265,
+    "weight": 6620.638023963452,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5723663104745005,
+    "weight": 59.83901816358605,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3760642712615944,
+    "weight": 3.8167415592163962,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.9462855264353083,
+    "weight": 5709.406016442421,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.841917634198055,
+    "weight": 6201.701023100997,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.998868721235404,
+    "weight": 59.849728713914985,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.45686010877127314,
+    "weight": 0.07557922238265541,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.971381938406807,
+    "weight": 56.75210568478765,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7346967753635433,
+    "weight": 11.034695761711815,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.2174839893958334,
+    "weight": 0.5059484661269031,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5708340303222843,
+    "weight": 56.90995661628713,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 3,
+    "height": 7.9076766442525575,
+    "weight": 567.7812224209393,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6923530811878905,
+    "weight": 40.94953172834398,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.673912480418936,
+    "weight": 47.03059378171492,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.4760788072802047,
+    "weight": 4249.3698799069325,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4839121879292194,
+    "weight": 1.294000530636192,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7046212603261572,
+    "weight": 57.977604528057796,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7861579963767718,
+    "weight": 47.985841261378155,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.39160163209658494,
+    "weight": 2.695955246805033,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.36511890685034715,
+    "weight": 0.9492323656938368,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.8749310187658965,
+    "weight": 6852.003236149829,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6449983558469417,
+    "weight": 63.456606854732435,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.0755043087282643,
+    "weight": 5162.002201784258,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.48915772436977156,
+    "weight": 28.900112179153133,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6247032190226736,
+    "weight": 67.38246243554657,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.616438069358652,
+    "weight": 6274.289831798289,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.1080569899007786,
+    "weight": 4701.960257374116,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6799106165605213,
+    "weight": 36.094435564112885,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5134596058671251,
+    "weight": 44.365580121403156,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4031480279387508,
+    "weight": 1.6853344795354108,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.9846970259025416,
+    "weight": 2794.746151729664,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8164654016319624,
+    "weight": 43.0127815658535,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.15157971229569375,
+    "weight": 32.596054461810986,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.384633426034022,
+    "weight": 70.46968800965435,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.38543896298535163,
+    "weight": 54.094332796970996,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.051645347592645,
+    "weight": 4095.410514698346,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.48961292688992636,
+    "weight": 57.63686406113106,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9024717659435728,
+    "weight": 88.92453413395694,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.491714853777796,
+    "weight": 65.13379433399908,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.20429248062131855,
+    "weight": 0.8216441184985587,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6128869259639924,
+    "weight": 73.00988429011426,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6962665176572849,
+    "weight": 43.36454514447477,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5364937297774559,
+    "weight": 55.7079719488969,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 1,
+    "height": 4.022653508109063,
+    "weight": 234.33927848756164,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.2319565309995799,
+    "weight": 3.851960848885084,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.23291641217185222,
+    "weight": 3.6848633952095593,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.8380685837376554,
+    "weight": 3783.1618581870034,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.0271338925070137,
+    "weight": 4436.962503866537,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.47955524344116907,
+    "weight": 2.831798930516442,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3937079425581814,
+    "weight": 1.7365829531415768,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.1414303265419314,
+    "weight": 4636.130927772546,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4501394335005572,
+    "weight": 0.6379363317746379,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8249543798347636,
+    "weight": 88.38930942733134,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.8156929534386403,
+    "weight": 3696.4812761124067,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.968890441804489,
+    "weight": 82.3566692959806,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.5158675999114726,
+    "weight": 4221.822292333762,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.949448183395816,
+    "weight": 49.40816469663777,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.8966608437591144,
+    "weight": 6338.737561555513,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6847231088196033,
+    "weight": 49.501184881507434,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7518200818074,
+    "weight": 55.10666342784107,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7522859925236184,
+    "weight": 43.83822446500344,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.4470503133750117,
+    "weight": 51.42462518961634,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3294857890083207,
+    "weight": 2.1071653711793936,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6479076991306036,
+    "weight": 25.638312855921267,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.29487555970251855,
+    "weight": 2.3787904404341074,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.484435711891122,
+    "weight": 4979.239723231349,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.330730755505262,
+    "weight": 15.901054944056453,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.914378319308697,
+    "weight": 5414.814254320394,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4171762189832119,
+    "weight": 2.0711296415222726,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.4433637189447796,
+    "weight": 58.022620606463974,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.1110790423782633,
+    "weight": 4699.760181392769,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.809577766161632,
+    "weight": 81.95342467974774,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9057355374288076,
+    "weight": 60.61961112077964,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.5304914680822264,
+    "weight": 3249.4274797984085,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.3837764710270321,
+    "weight": 49.000066016329036,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5783133525531068,
+    "weight": 1.734943699233749,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.13805865832696687,
+    "weight": 42.05928527706957,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.15599990916084952,
+    "weight": 3.422173510664607,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.565244621538099,
+    "weight": 3014.1497280810563,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.021604949746622,
+    "weight": 3685.398244153126,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.18373308579381606,
+    "weight": 75.80487684065962,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.3513073981593573,
+    "weight": 3571.1861862979154,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8614942878236613,
+    "weight": 82.91095795105936,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7621113192417146,
+    "weight": 58.858478424214354,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8811380600076424,
+    "weight": 44.13430612529009,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3480498197828622,
+    "weight": 3.608688784532956,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6919065988404067,
+    "weight": 85.06364795122926,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.31434463584171335,
+    "weight": 73.04650242877246,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.46475907780275305,
+    "weight": 2.3828915640317554,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 3,
+    "height": 0.15658095191934618,
+    "weight": 207.15811540958362,
+    "has_wings": true,
+    "has_tail": false
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.20685758775014704,
+    "weight": 1.038085744888746,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5903837767961436,
+    "weight": 42.93415083394044,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.1735432958583933,
+    "weight": 5564.035327091093,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.16879375118158774,
+    "weight": 1.856598396587487,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.36180906012022473,
+    "weight": 2.5925209675660392,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.1603689806308078,
+    "weight": 1.1748604201816832,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.28513410510086723,
+    "weight": 43.913461408612974,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.0749284236984615,
+    "weight": 5440.889202313965,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4293193108309613,
+    "weight": 3.0056708215401198,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.808199993844276,
+    "weight": 5970.728212041958,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.3453411955034446,
+    "weight": 8.864247040333998,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 3,
+    "height": 4.447358649962954,
+    "weight": 761.3464912009719,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.435213700374587,
+    "weight": 44.04709004779612,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6358475367841552,
+    "weight": 67.71099026987861,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.45230136204386706,
+    "weight": 0.08837397976190232,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8899375376139165,
+    "weight": 67.9768272881238,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.9790447833670903,
+    "weight": 3329.2065705869995,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.7093378775418313,
+    "weight": 3754.149227741606,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.856861879643843,
+    "weight": 4410.740061021855,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7444499649158112,
+    "weight": 87.2111147815697,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5337883506665735,
+    "weight": 15.850535653100447,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.15236857929891504,
+    "weight": 1.6842657061891273,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6767719941310201,
+    "weight": 26.369024727921925,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.73738740336442,
+    "weight": 5193.808454076196,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.3436446312129001,
+    "weight": 76.21910791294133,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4072060279044153,
+    "weight": 2.671772949174519,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.7600387513241857,
+    "weight": 3805.2906297961354,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.18986073826419933,
+    "weight": 2.3843096674216357,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.0767242434857778,
+    "weight": 4965.426375089133,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7712229424840927,
+    "weight": 16.957399114360758,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9275862272017834,
+    "weight": 79.78284179979772,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.22464180343351148,
+    "weight": 24.272362437089242,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.106560388256489,
+    "weight": 5993.030081846271,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5259259330671091,
+    "weight": 42.447840994366196,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.49967873830348486,
+    "weight": 62.57159198836685,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6437477700977148,
+    "weight": 52.41154844224514,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.0458298647052295,
+    "weight": 2790.475782169753,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7874315708266518,
+    "weight": 26.530341113424047,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.604219109113832,
+    "weight": 52.93691852018277,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.866742910839367,
+    "weight": 4281.876925313262,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.7770209749635715,
+    "weight": 2705.619408010808,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7559723303763192,
+    "weight": 7.239601754482408,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.780012500566113,
+    "weight": 4075.1867276275925,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.36684420171223964,
+    "weight": 8.16340794336815,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.3468584424680363,
+    "weight": 24.070730529782313,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6090340460812451,
+    "weight": 57.15389737783742,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.297630977374847,
+    "weight": 5784.104784196807,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.7645807934423208,
+    "weight": 4433.388349573233,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5582370168375016,
+    "weight": 15.131373634767463,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.1498507465528256,
+    "weight": 48.7073945836957,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.39440833064188086,
+    "weight": 55.82174585283915,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8309391620807411,
+    "weight": 79.97511784433549,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.2640947190595865,
+    "weight": 1.9417824076443502,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.48884621334689227,
+    "weight": 50.67002397479282,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5291632059043483,
+    "weight": 27.81208403878522,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.194227046292231,
+    "weight": 5635.749952067714,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.868844032686793,
+    "weight": 55.65928724328489,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6732178073325934,
+    "weight": 74.67182708582229,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5355695558618736,
+    "weight": 45.62227452264153,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.562141116599872,
+    "weight": 54.93448473255439,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.9638721924909226,
+    "weight": 4705.460712626498,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4446948249477918,
+    "weight": 2.6156037416993354,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7938435677782736,
+    "weight": 49.75642458171246,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.40821135689015486,
+    "weight": 39.10048158188901,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.4623156681189863,
+    "weight": 6.989644124237651,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 2.920899095587066,
+    "weight": 274.852918273534,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.503813805485875,
+    "weight": 9.387063130423819,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3397151826911704,
+    "weight": 3.187501127267067,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.501520226810936,
+    "weight": 78.19739463831964,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.7349609522415754,
+    "weight": 6897.044477899303,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4517698689241335,
+    "weight": 0.39911025395131094,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9102526599523095,
+    "weight": 51.84730276833406,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4513670436945847,
+    "weight": 2.577519884304882,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.1685158858738207,
+    "weight": 6098.178421630365,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.33629827907964405,
+    "weight": 2.5217185463375857,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.25126663521273024,
+    "weight": 1.1499491849156476,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6542355625712037,
+    "weight": 77.5047068244558,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9969944902578698,
+    "weight": 83.35237952168893,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.6922127453249445,
+    "weight": 5658.997850008427,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.4628319336226337,
+    "weight": 45.827904050376674,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.3851171829354344,
+    "weight": 6.428027456550144,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7611403093207285,
+    "weight": 77.4901191436595,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3091434771760473,
+    "weight": 2.068729172062168,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8923727749948211,
+    "weight": 62.92246283398589,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.44753718392674424,
+    "weight": 3.34940720863498,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6908964003924951,
+    "weight": 39.33512338310586,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.26821430430977555,
+    "weight": 2.442937744406341,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.666046484364144,
+    "weight": 70.69114065602665,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6398298967664824,
+    "weight": 79.19448809202842,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9717731501390088,
+    "weight": 47.899175748708075,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.2675763803502318,
+    "weight": 54.55446273005356,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.20564211201703678,
+    "weight": 3.9199365176280225,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.2376362474921881,
+    "weight": 1.5849856047134858,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.516090674793303,
+    "weight": 5290.0983789093025,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.8520155372722584,
+    "weight": 2992.1565050326403,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.8943579703522135,
+    "weight": 3170.6091057719423,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.13631512437375293,
+    "weight": 55.10437292211182,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6019410807630353,
+    "weight": 37.99946895286457,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8923053527055884,
+    "weight": 45.12135852247533,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.19799525316024097,
+    "weight": 3.2569159934375485,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.0410027721801156,
+    "weight": 5511.68943505189,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8441276957095272,
+    "weight": 48.20582748953231,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.0289912341234033,
+    "weight": 3250.908762630408,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.714774516729462,
+    "weight": 7.305010627080099,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8358295671046052,
+    "weight": 59.20159546715604,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4268768314193231,
+    "weight": 1.068534678973379,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.96252300228841,
+    "weight": 5180.033829071168,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9391568417759837,
+    "weight": 72.9202685042572,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.1355808404733123,
+    "weight": 3870.830820340887,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.9104500707495076,
+    "weight": 3084.7977491963766,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8113146003744738,
+    "weight": 88.88484739216679,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.1961940082564457,
+    "weight": 3.62056869838868,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.34122467740647283,
+    "weight": 0.7562428094836181,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6066757607083426,
+    "weight": 43.37662846363836,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9690317155732777,
+    "weight": 87.43399984735623,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3699997436212016,
+    "weight": 2.1228668434059537,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.1860509121087592,
+    "weight": 42.620338061496206,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.1792589758222357,
+    "weight": 0.3659667625022041,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.947387253871618,
+    "weight": 4280.145462763903,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7240677973588583,
+    "weight": 61.874302152528756,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.5215362901805864,
+    "weight": 2970.7150330834043,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5463618202060911,
+    "weight": 4.819746645385541,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.57630427614802,
+    "weight": 5643.972610607823,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.9118075099452168,
+    "weight": 4090.832049019061,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.2084370339673333,
+    "weight": 0.5654121189439227,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.40652754314426454,
+    "weight": 0.5284701265354773,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.43248774633007936,
+    "weight": 1.1692552170738957,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7984590275740557,
+    "weight": 65.5390939712986,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.7972421222925625,
+    "weight": 3696.999148468036,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6913617692613006,
+    "weight": 65.44124424553235,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 1,
+    "height": 2.4455145035670345,
+    "weight": 471.76458957773815,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8211459153983458,
+    "weight": 85.69738347605644,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.28267041339595145,
+    "weight": 19.988659893543588,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.2449402853034358,
+    "weight": 0.3612438722722545,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6717377401089224,
+    "weight": 80.21690097293784,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.17686997768546667,
+    "weight": 37.00989296647556,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.2645553226041416,
+    "weight": 2.3395194787340934,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 2.915950906560326,
+    "weight": 784.5072172873415,
+    "has_wings": true,
+    "has_tail": false
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.8084952390594559,
+    "weight": 61.407047542487526,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.6040040753459657,
+    "weight": 6609.309389912749,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 5,
+    "height": 3.464236977394062,
+    "weight": 839.5740068961738,
+    "has_wings": true,
+    "has_tail": false
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 8.490059877789218,
+    "weight": 727.2150390409726,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.8436360993825325,
+    "weight": 6733.095761817312,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.103370702483091,
+    "weight": 3000.014544939779,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6065758985951022,
+    "weight": 29.740619964815338,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8323082509505064,
+    "weight": 65.27138819303879,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.1808847293443167,
+    "weight": 45.07392717070285,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.680726843920288,
+    "weight": 3722.2610373715233,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6064934122986487,
+    "weight": 58.225200199415895,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.23176392932340947,
+    "weight": 3.9650181579432835,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6621642205287748,
+    "weight": 48.218749034988406,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.2121009812088958,
+    "weight": 28.625564506082426,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.33964924838450317,
+    "weight": 21.303122262804592,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.188761245165682,
+    "weight": 3908.124426405599,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6860083157894754,
+    "weight": 82.82866356067123,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.3318760037169683,
+    "weight": 4303.851189523016,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 3,
+    "height": 2.601667927212239,
+    "weight": 990.6766204079072,
+    "has_wings": true,
+    "has_tail": false
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.554305496522922,
+    "weight": 3038.2015992459355,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6047827692677652,
+    "weight": 81.51861659473181,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.6463384013106626,
+    "weight": 4322.501781587533,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8329295205656253,
+    "weight": 52.94103261732629,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9988645704521897,
+    "weight": 49.88751683477166,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.5518609884047465,
+    "weight": 6243.284369008477,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6170785276361723,
+    "weight": 63.04974610009704,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.688746073041953,
+    "weight": 31.507397025420673,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 1.7280721183078918,
+    "weight": 214.71610597002666,
+    "has_wings": true,
+    "has_tail": false
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.5008380049210404,
+    "weight": 5262.4591600373515,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3246120634987747,
+    "weight": 3.71200720422355,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7119103949755887,
+    "weight": 46.86180085660324,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.031371406054032,
+    "weight": 6049.322755915848,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6617027214548891,
+    "weight": 28.690300622248856,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.3639432014571158,
+    "weight": 44.90361253125869,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.21293555579425422,
+    "weight": 1.364487312792207,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.17050693059734148,
+    "weight": 4.164744899441467,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.336842076942817,
+    "weight": 3030.5776504113173,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3367913476057336,
+    "weight": 3.330920513976747,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.9823659766717965,
+    "weight": 6825.45793375954,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.626729327146191,
+    "weight": 5147.8338894800745,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.469893001444987,
+    "weight": 0.1544239497741632,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.971166912868976,
+    "weight": 3409.404759092602,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.4986447290342755,
+    "weight": 14.281206261361085,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 1,
+    "height": 2.326233580832391,
+    "weight": 218.80894169157727,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.1877364178459024,
+    "weight": 4065.2638903471216,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.1708445869957619,
+    "weight": 0.6519251350391952,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.1591861839497035,
+    "weight": 6239.867816590278,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7494363120333494,
+    "weight": 87.09616067340208,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.734624428456322,
+    "weight": 56.13016021864551,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6684529169999128,
+    "weight": 75.91197487894595,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.0993927999003317,
+    "weight": 5016.502431648297,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.22813302489322485,
+    "weight": 2.4887994985250605,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.406898240677822,
+    "weight": 1.2630753730248752,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9795152416885151,
+    "weight": 87.43490799249514,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.672832702405419,
+    "weight": 55.91084559300475,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.039285627777425,
+    "weight": 3047.6740019601393,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.41087016483569383,
+    "weight": 1.0277770363969394,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.036206225513928,
+    "weight": 6741.242385517969,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3063204769342278,
+    "weight": 1.1410793900632537,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7401924647589264,
+    "weight": 79.35100030453302,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.754374839181364,
+    "weight": 76.62922472493844,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.4652957555622164,
+    "weight": 30.22893711977933,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9315227910265005,
+    "weight": 79.43649972381097,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.6147642954561547,
+    "weight": 2916.950375113909,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.15702729941569948,
+    "weight": 1.1240746566561566,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.20953682110291674,
+    "weight": 1.6000311714250248,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7351802336991744,
+    "weight": 89.26380500705716,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7725293336583443,
+    "weight": 72.68175876326754,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.23683056858493318,
+    "weight": 8.448738161406848,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.8342590805180747,
+    "weight": 4982.683458959787,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3812092624495407,
+    "weight": 1.27507889629836,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5188034693432644,
+    "weight": 66.42857863038361,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.1513354502593136,
+    "weight": 0.4017968597949244,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.26577886451744354,
+    "weight": 2.520251879437331,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4919701935997428,
+    "weight": 2.0084746207044324,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.4502422280057209,
+    "weight": 70.74788244732949,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.25571922996859214,
+    "weight": 70.0111763808388,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.1603395087945555,
+    "weight": 35.01962319394238,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3474863057700826,
+    "weight": 0.6661569976251934,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.634282924735967,
+    "weight": 57.18956932730234,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.9627056964805387,
+    "weight": 6215.427815650077,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.786626838774605,
+    "weight": 54.43483269252762,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.893873430162507,
+    "weight": 2939.506714028558,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.800840588126242,
+    "weight": 85.0227530735796,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.5770508685323357,
+    "weight": 5855.911649248532,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.3352267417206036,
+    "weight": 6076.381101673262,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.18329059505485257,
+    "weight": 54.125349344151985,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.212356225621644,
+    "weight": 3708.911347947439,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6348109763506031,
+    "weight": 67.81821019848995,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.33189086213972424,
+    "weight": 3.8551450345906617,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 5,
+    "height": 5.8757608773233,
+    "weight": 781.6856609254615,
+    "has_wings": true,
+    "has_tail": false
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9699712667037095,
+    "weight": 68.13418797386612,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.45361634371781134,
+    "weight": 3.7010052713940094,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.2840652155069685,
+    "weight": 2.0584894902879944,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6688798912626928,
+    "weight": 60.14869792157883,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.15637212208762066,
+    "weight": 70.33157579226922,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.513868968216459,
+    "weight": 4643.438221958208,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.15708151100764514,
+    "weight": 3.4397776070458703,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4449962990139925,
+    "weight": 3.60983140260137,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.589603113661912,
+    "weight": 6789.143525794235,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.24429699335306726,
+    "weight": 1.7720248654375084,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.863127772272658,
+    "weight": 6527.761063300584,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6464554407538545,
+    "weight": 68.57433418819272,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.5283991011746196,
+    "weight": 5651.148412966875,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6694949424051149,
+    "weight": 83.75902780627084,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6997961045297119,
+    "weight": 62.822433356404034,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.7138399736421794,
+    "weight": 6141.0770542632,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.872469744177351,
+    "weight": 52.09690472948058,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.2507569120314259,
+    "weight": 68.83274059559933,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.27048715134881257,
+    "weight": 3.5241526455787557,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7140277505739048,
+    "weight": 59.32828353704923,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.232828956820089,
+    "weight": 5383.733534574372,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.37805556649958727,
+    "weight": 2.1737897761350715,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.789638882611738,
+    "weight": 46.6157045391841,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6895080126893236,
+    "weight": 70.41719414483218,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.29833238023086667,
+    "weight": 1.6042673078041763,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.226373168925526,
+    "weight": 1.2948300149751273,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5274512659726458,
+    "weight": 1.0767844554321933,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3465099910391103,
+    "weight": 2.5088750946110157,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7926953675265225,
+    "weight": 56.81418269439077,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.45152206008814066,
+    "weight": 1.1241545776980064,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.21592602843400277,
+    "weight": 2.190493196768089,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.922171929053412,
+    "weight": 80.11818722264059,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3882645126355836,
+    "weight": 3.039701951578038,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.24079919544919612,
+    "weight": 1.779488951156625,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.833209480965343,
+    "weight": 89.73768650443942,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.40429245680331627,
+    "weight": 0.9626979765232075,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7464380237434373,
+    "weight": 53.2416753630491,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.218168438190796,
+    "weight": 6368.927572671075,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7883123491047148,
+    "weight": 77.0459445784434,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.3127618083726165,
+    "weight": 6468.241978758719,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.7862022225466507,
+    "weight": 5800.1026961740745,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.2800888504177014,
+    "weight": 2.4747308041463403,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7882146270682722,
+    "weight": 83.31966848462699,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7888878729624333,
+    "weight": 49.72719024884603,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.49029018314839834,
+    "weight": 32.92891944008964,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.5922550806640805,
+    "weight": 3461.275340419117,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.22739242356375416,
+    "weight": 68.19792455196361,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.795032338299243,
+    "weight": 71.55163861313476,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6018854005695977,
+    "weight": 53.67639311007498,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.9828882350056656,
+    "weight": 3281.2710047154237,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6517623830273145,
+    "weight": 61.68557071443183,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7864229312884226,
+    "weight": 30.590338974196662,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 7.306590704105899,
+    "weight": 950.068615481832,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 1,
+    "height": 6.266869286716226,
+    "weight": 248.82312287588192,
+    "has_wings": false,
+    "has_tail": false
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.4722688055060511,
+    "weight": 24.5300347291759,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7192809013976555,
+    "weight": 54.54138959047433,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3017828305124559,
+    "weight": 2.896065783896682,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.37429060272931003,
+    "weight": 15.29144366043325,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.1430048185238572,
+    "weight": 18.109227020910023,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.1233281911872535,
+    "weight": 5135.6791896367395,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.39888853153354764,
+    "weight": 3.3346253464560505,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.41993738217023535,
+    "weight": 2.631110077949371,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8647879663351579,
+    "weight": 72.67838092003763,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 1,
+    "height": 4.167755651795439,
+    "weight": 380.2537629276146,
+    "has_wings": false,
+    "has_tail": false
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.0887209060066088,
+    "weight": 5310.338762700629,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8649931863555587,
+    "weight": 53.498857476859456,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.842754919076569,
+    "weight": 6464.074277513707,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.713082707268037,
+    "weight": 79.23800330842424,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.1623834357713503,
+    "weight": 6175.444928180636,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3962028625861904,
+    "weight": 1.2665470497655518,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 9.103566274620144,
+    "weight": 688.2039154553736,
+    "has_wings": false,
+    "has_tail": false
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.868653252986082,
+    "weight": 85.3440022134896,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.23141825501340096,
+    "weight": 7.571489875710071,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.961911753582633,
+    "weight": 72.21683957843493,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.24244375796986425,
+    "weight": 0.2454838551692997,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.940899474294684,
+    "weight": 58.01073320269439,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6322073331386798,
+    "weight": 7.957379920950553,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.603868931090828,
+    "weight": 46.91972213363462,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.2751345914832105,
+    "weight": 1.8592055333631943,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7490488613097797,
+    "weight": 57.136136138018,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7843707525018327,
+    "weight": 21.838897623889924,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6739313859252861,
+    "weight": 51.4344489839727,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.653004630494624,
+    "weight": 76.32055560449004,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.562304664107149,
+    "weight": 6518.275073470371,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.25325718116536544,
+    "weight": 30.310436160597177,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9450303098096375,
+    "weight": 83.99751232509928,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.8999408941652938,
+    "weight": 4698.927941066258,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.1612611812581756,
+    "weight": 21.036610077436453,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.3403270462202106,
+    "weight": 5480.330740321557,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7731391628435649,
+    "weight": 76.33259842119253,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.2310850275348309,
+    "weight": 65.3753688844295,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6046579469543658,
+    "weight": 86.71857102100824,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7092723829833251,
+    "weight": 68.74912731710228,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.3480309945628527,
+    "weight": 26.475245137932795,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.959941057060304,
+    "weight": 4228.141647831284,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.783637837899294,
+    "weight": 80.06306438633611,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.4340063215413827,
+    "weight": 9.818487886210178,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.641057328592061,
+    "weight": 60.61692738377747,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9303635033693776,
+    "weight": 79.5891642586154,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4615388145887718,
+    "weight": 2.3779904976272714,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7762414883954887,
+    "weight": 29.022384489230163,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.2214425212477846,
+    "weight": 4027.4822898853463,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6173274863278396,
+    "weight": 29.01862195282585,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.903727980431647,
+    "weight": 51.0873553910095,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.341691703592947,
+    "weight": 1.593505570596649,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.9082557065412384,
+    "weight": 6133.906237650523,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.20273382375327292,
+    "weight": 48.451863641886675,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.27660086297088327,
+    "weight": 65.22750028104709,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.18771801155062218,
+    "weight": 1.762440046769239,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9088580694548916,
+    "weight": 62.525229847948204,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.3278307330158166,
+    "weight": 2618.6517989677686,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7003949552616633,
+    "weight": 38.41015913757021,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.0857177642353877,
+    "weight": 3346.6961617851775,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7549622316882665,
+    "weight": 70.02730109027056,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.41469202716693665,
+    "weight": 48.306004944435905,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.713500333160939,
+    "weight": 6743.452212022937,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6772618449530963,
+    "weight": 11.34713044315963,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.445076050948523,
+    "weight": 2.3175162587696723,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.648791283269557,
+    "weight": 5283.92063358317,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.47241711754598315,
+    "weight": 0.5893124061249171,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.918465160748492,
+    "weight": 5585.5414870275035,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9043100099332266,
+    "weight": 68.11401057257127,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.588485570166638,
+    "weight": 70.66848110816673,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6796472499421533,
+    "weight": 41.53430391742238,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.5306499950777122,
+    "weight": 56.60477429555666,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.20124993654924359,
+    "weight": 0.29524264606048395,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.140698613760197,
+    "weight": 2738.9174479420067,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8464435335041147,
+    "weight": 73.77630067597795,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.1307473349268458,
+    "weight": 5013.463377000486,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.392527626324987,
+    "weight": 0.2325772457492073,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7805573396080423,
+    "weight": 77.10208368140592,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6051860950698553,
+    "weight": 52.56705641861529,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6943887677294983,
+    "weight": 72.05168060028848,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4142876968229924,
+    "weight": 2.3125588140872675,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.7318181724059976,
+    "weight": 3362.9313634995315,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.3266029715886534,
+    "weight": 5760.841789912742,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7714031257602938,
+    "weight": 67.82993102976664,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.15197579760623703,
+    "weight": 1.9783373609664776,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.661481353427852,
+    "weight": 56.131501494676,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3216928294037868,
+    "weight": 2.421054311680174,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3338882735147081,
+    "weight": 4.020939868483298,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.8401788069556755,
+    "weight": 4909.254595895807,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.2562230975917346,
+    "weight": 5452.338248693191,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.22645585002458013,
+    "weight": 3.170305635615454,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6458887805609062,
+    "weight": 57.30036454113842,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.3234181663058004,
+    "weight": 5534.97085130467,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7543503739136177,
+    "weight": 67.01186564712808,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3300081717296381,
+    "weight": 2.154866273670296,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.46439856311704864,
+    "weight": 0.8384290709678978,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.666957923685398,
+    "weight": 87.81381032366995,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8507732303901667,
+    "weight": 50.53907374677625,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.2398062615842416,
+    "weight": 4424.100643346905,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5696615883364748,
+    "weight": 74.27046225340261,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.4911401220314984,
+    "weight": 5682.533620494426,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 1,
+    "height": 0.5426807089144103,
+    "weight": 794.2147869758903,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.39386217047844413,
+    "weight": 49.97205527312435,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7558007468977532,
+    "weight": 45.91528808133094,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 5,
+    "height": 0.6323759075969893,
+    "weight": 745.9510310412049,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.715934639534032,
+    "weight": 74.29393295248997,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4178459843571618,
+    "weight": 1.8590458102362206,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7895950709471806,
+    "weight": 66.67338819051747,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.671803897189271,
+    "weight": 67.18319388731845,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.735270287862325,
+    "weight": 6414.005911580669,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.48508707718784194,
+    "weight": 0.08341831494362031,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.579679291450814,
+    "weight": 2621.628308018222,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7218764609398034,
+    "weight": 77.41482933663967,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.2241079300226947,
+    "weight": 3.8071294903234603,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.613249378232312,
+    "weight": 3549.3882682368544,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.5720140624896333,
+    "weight": 5485.205018807487,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9405550889701897,
+    "weight": 86.61849327015743,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5683786694241459,
+    "weight": 6.24184891444619,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.18437084048313018,
+    "weight": 3.057628078282026,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.27499842565413785,
+    "weight": 2.831603440342352,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3668305220040165,
+    "weight": 3.7841936936790836,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.353275333189315,
+    "weight": 52.2646466940308,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.973341287035548,
+    "weight": 4167.321773418105,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.24467486741606653,
+    "weight": 25.08736028764209,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.31814228781517473,
+    "weight": 28.71965098040556,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.45726004032778655,
+    "weight": 1.9638377896027654,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.32043998385284195,
+    "weight": 0.49007026489623734,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9367171981353042,
+    "weight": 82.93568276853996,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.704278839028289,
+    "weight": 6411.244077939251,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9568420738537022,
+    "weight": 82.47936364530709,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6530561733337096,
+    "weight": 17.201713864839302,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 3,
+    "height": 5.434693239181185,
+    "weight": 998.7281750118517,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.2633794139117667,
+    "weight": 5135.283245540226,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.883584016531703,
+    "weight": 4794.771571378278,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8650713957514786,
+    "weight": 82.39909200519332,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.1439134034334244,
+    "weight": 3203.5939784254724,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.1249686298629937,
+    "weight": 4679.064687627953,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.147710416272294,
+    "weight": 3596.524602698557,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.508099512346396,
+    "weight": 3489.1285212852545,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.2858325884817986,
+    "weight": 3.858225793001657,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.992235912825241,
+    "weight": 56.203555503198885,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4422052931760877,
+    "weight": 1.1331847968462307,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.8052270168943036,
+    "weight": 4227.629623344363,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.8066651590215754,
+    "weight": 58.81643905217726,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.3699706452766135,
+    "weight": 68.61597461689291,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.7332769215916356,
+    "weight": 1.0179183959528966,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.24261195925171467,
+    "weight": 6.551425720687877,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.603713962930039,
+    "weight": 3276.6366165694494,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.864443857164223,
+    "weight": 60.73068425475531,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7926066597557946,
+    "weight": 63.9407321360041,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.0460607183850916,
+    "weight": 4366.86659080176,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.980402995103519,
+    "weight": 3292.8553035804134,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9563190685876288,
+    "weight": 47.34325500425398,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.9298102164479505,
+    "weight": 4343.462160805146,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9514035931812146,
+    "weight": 76.3987157723848,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.686637367156754,
+    "weight": 70.3262948962956,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.2459854131129935,
+    "weight": 65.68354061428604,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.0246584476313547,
+    "weight": 4796.46110637068,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.4728231806957315,
+    "weight": 2.5203683880765073,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.3921140802644564,
+    "weight": 9.022753941268967,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6920296462006987,
+    "weight": 48.03261490210472,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9511010550971872,
+    "weight": 66.57149750863358,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7928963740449924,
+    "weight": 46.516442038858216,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.9587875811390127,
+    "weight": 78.74352115339016,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.38185666616917047,
+    "weight": 3.909905241913796,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.3051952488276894,
+    "weight": 4673.130825870402,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.3561668301494223,
+    "weight": 3.1234233980209862,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7701957587417456,
+    "weight": 52.72590140891866,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.7133066672035824,
+    "weight": 83.83831565966122,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 2.4748678141917475,
+    "weight": 5797.676429856692,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 5,
+    "height": 1.1782860398115103,
+    "weight": 7.194052450581467,
+    "has_wings": true,
+    "has_tail": false
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 1.6619114322247255,
+    "weight": 72.57879673889659,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.5139757615971414,
+    "weight": 48.532633145388225,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6433808924146868,
+    "weight": 32.93841042623101,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.25152932652640947,
+    "weight": 44.38886562779948,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 2,
+    "height": 0.35217790358159473,
+    "weight": 3.2599716379119013,
+    "has_wings": true,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 3.2309490413130013,
+    "weight": 5434.916251242674,
+    "has_wings": false,
+    "has_tail": true
+  },
+  {
+    "walks_on_n_legs": 4,
+    "height": 0.6625142970348282,
+    "weight": 75.01574650556532,
+    "has_wings": false,
+    "has_tail": true
+  }
+]

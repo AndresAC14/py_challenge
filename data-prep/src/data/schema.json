@@ -1,0 +1,38 @@
+{
+  "properties": {
+    "walks_on_n_legs": {
+      "description": "The number of legs the animal walks on",
+      "title": "Walks on 'n' legs",
+      "type": "integer"
+    },
+    "height": {
+      "description": "The height of the animal in meters",
+      "title": "Height",
+      "type": "number"
+    },
+    "weight": {
+      "description": "The weight of the animal in kilograms",
+      "title": "Weight",
+      "type": "number"
+    },
+    "has_wings": {
+      "description": "Whether the animal has wings",
+      "title": "Has wings?",
+      "type": "boolean"
+    },
+    "has_tail": {
+      "description": "Whether the animal has a tail",
+      "title": "Has tail?",
+      "type": "boolean"
+    }
+  },
+  "required": [
+    "walks_on_n_legs",
+    "height",
+    "weight",
+    "has_wings",
+    "has_tail"
+  ],
+  "title": "AnimalCharacteristics",
+  "type": "object"
+}
