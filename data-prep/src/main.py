@@ -3,9 +3,14 @@ import httpx
 import json
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import classification_report
+import pickle as pk
+from datetime import datetime
 
 
-def get_data() -> None:
+def get_data(data_points: int):
     """
     Get the schema and the full data and save them into two separate JSON files.
     """
@@ -13,7 +18,7 @@ def get_data() -> None:
     schema_response = httpx.get("http://127.0.0.1:8777/api/v1/animals/schema")
     data_response = httpx.post(
         "http://127.0.0.1:8777/api/v1/animals/data",
-        json={"seed": 42, "number_of_datapoints": 1000},
+        json={"seed": 42, "number_of_datapoints": data_points},
     )
 
     # Check for request success
@@ -58,7 +63,7 @@ def clean_data(df: pl.DataFrame) -> pl.DataFrame:
 
     df = df.with_columns(
         [
-            pl.col(col).cast(pl.Int8)
+            pl.col(col).cast(pl.Float64)
             for col in df.columns
             if df.schema[col] == pl.Boolean
         ]
@@ -70,30 +75,53 @@ def clean_data(df: pl.DataFrame) -> pl.DataFrame:
     return df
 
 
-def label_data(df: pl.DataFrame, n_clusters=4) -> pl.DataFrame:
+def label_data(df: pl.DataFrame):
     """
     To classify this data we are going to use Clustering. This is unsupervised learning.
+    Then, the model will be saved into a pickle file.
     """
 
-    features = df.columns
+    X = df.select(
+        ["walks_on_n_legs", "height", "weight", "has_wings", "has_tail"]
+    ).to_numpy()
 
-    # Convert booleans to integers
-    df_encoded = df.copy()
-    df_encoded["has_wings"] = df_encoded["has_wings"].astype(int)
-    df_encoded["has_tail"] = df_encoded["has_tail"].astype(int)
-
+    # Scale the data
     scaler = StandardScaler()
-    X_scaled = scaler.fit_transform(df_encoded[features])
+    X_scaled = scaler.fit_transform(X)
 
-    kmeans = KMeans(n_clusters=n_clusters, random_state=42)
-    df["cluster"] = kmeans.fit_predict(X_scaled)
-    print(df.head(5))
+    # Clustering with KMeans (4 animals to be classified)
+    kmeans = KMeans(n_clusters=4, random_state=42)
+    clusters = kmeans.fit_predict(X_scaled)
 
-    return df
+    # Add label column to the DataFrame
+    df = df.with_columns(pl.Series(name="label", values=clusters))
+
+    return X, clusters
+
+
+def validate_data(X, y):
+    # Split data
+    X_train, X_test, y_train, y_test = train_test_split(
+        X, y, test_size=0.2, random_state=42
+    )
+
+    # Train a RandomForest model
+    rf = RandomForestClassifier(random_state=42)
+    rf.fit(X_train, y_train)
+
+    # Save the model into a pickle file
+    with open(f"model/RFmodel.pkl", "wb") as file:
+        pk.dump(rf, file)
+
+    y_pred = rf.predict(X_test)
+    print("Classification Report", classification_report(y_test, y_pred))
 
 
 if __name__ == "__main__":
-    # get_data()
+    data_points = 3000
+    get_data(data_points)
     df = create_dataframe()
     print(df)
-    # label_data(df)
+    #date_id = datetime.now().isoformat()
+    X, y = label_data(df)
+    validate_data(X, y)
