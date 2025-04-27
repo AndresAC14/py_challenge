@@ -1,19 +1,20 @@
-import pandas as pd
-import requests
+import polars as pl
+import httpx
 import json
 from sklearn.cluster import KMeans
-from sklearn.preprocessing import StandardScaler 
+from sklearn.preprocessing import StandardScaler
+
 
 def get_data() -> None:
-    '''
+    """
     Get the schema and the full data and save them into two separate JSON files.
-    '''
+    """
 
-    schema_response = requests.get("http://127.0.0.1:8777/api/v1/animals/schema")
-    data_response = requests.post("http://127.0.0.1:8777/api/v1/animals/data", json={
-        "seed": 42,
-        "number_of_datapoints": 1000
-    })
+    schema_response = httpx.get("http://127.0.0.1:8777/api/v1/animals/schema")
+    data_response = httpx.post(
+        "http://127.0.0.1:8777/api/v1/animals/data",
+        json={"seed": 42, "number_of_datapoints": 1000},
+    )
 
     # Check for request success
     if schema_response.status_code == 200 and data_response.status_code == 200:
@@ -26,25 +27,56 @@ def get_data() -> None:
         raise Exception("Failed to fetch data from the API")
 
 
-def create_dataframe() -> pd.DataFrame:
-    '''
+def create_dataframe() -> pl.DataFrame:
+    """
     Transforms the JSON data into a Pandas DataFrame.
-    '''
+    """
     with open("data/animals.json", "r") as data_file:
         data = json.load(data_file)
 
-    df = pd.DataFrame(data)
+    df = pl.DataFrame(data)
 
     return df
 
 
-def label_data(df: pd.DataFrame, n_clusters=4) -> pd.DataFrame:
-    '''
+def remove_outliers_iqr(df: pl.DataFrame, column: str) -> pl.DataFrame:
+    q1 = df.select(pl.col(column).quantile(0.25, "nearest")).item()
+    q3 = df.select(pl.col(column).quantile(0.75, "nearest")).item()
+
+    iqr = q3 - q1
+    lower = q1 - 1.5 * iqr
+    upper = q3 + 1.5 * iqr
+
+    return df.filter((pl.col(column) >= lower) & (pl.col(column) <= upper))
+
+
+def clean_data(df: pl.DataFrame) -> pl.DataFrame:
+    """
+    Dummify boolean columns and remove outliers
+    Remove outliers
+    """
+
+    df = df.with_columns(
+        [
+            pl.col(col).cast(pl.Int8)
+            for col in df.columns
+            if df.schema[col] == pl.Boolean
+        ]
+    )
+
+    for col in ["walks_on_n_legs", "height", "weight"]:
+        df = remove_outliers_iqr(df, col)
+
+    return df
+
+
+def label_data(df: pl.DataFrame, n_clusters=4) -> pl.DataFrame:
+    """
     To classify this data we are going to use Clustering. This is unsupervised learning.
-    '''
+    """
 
     features = df.columns
-    
+
     # Convert booleans to integers
     df_encoded = df.copy()
     df_encoded["has_wings"] = df_encoded["has_wings"].astype(int)
@@ -61,8 +93,7 @@ def label_data(df: pd.DataFrame, n_clusters=4) -> pd.DataFrame:
 
 
 if __name__ == "__main__":
-    #get_data()
+    # get_data()
     df = create_dataframe()
+    print(df)
     # label_data(df)
-    
-    
