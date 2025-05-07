@@ -57,11 +57,11 @@ Visualize the data to better understand it, clean it from outliers, and train a 
 
 - [ X ] You have read all the information you could gather on the data from the data service.
 - [ X ] You have prepared a dataset with at least 1,000 datapoints locally from the data service.
-- [ ] You have visualized the data to better understand its structure.
-- [ ] You have cleaned the data of outliers.
-- [ ] You have trained a machine learning model on the data to solve the requested task.
-- [ ] You have stored the model in a way that can be loaded later.
-- [ ] You have validated the results from the model according to the knowledge you have on the data.
+- [ X ] You have visualized the data to better understand its structure.
+- [ X ] You have cleaned the data of outliers.
+- [ X ] You have trained a machine learning model on the data to solve the requested task.
+- [ X ] You have stored the model in a way that can be loaded later.
+- [ X ] You have validated the results from the model according to the knowledge you have on the data.
 - [ ] (EXTRA) If your approach allows it, provide a confidence interval for the predictions.
 - [ ] (EXTRA) When training the model, you store it in object storage (like [min.io](https://min.io)) instead of the local filesystem.
 
