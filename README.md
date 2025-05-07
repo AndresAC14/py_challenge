@@ -33,10 +33,10 @@ All you need is in the README.md or the web application itself.
 <details>
 <summary>Self-evaluation of your progress</summary>
 
-- [ ] You have built the container with the instructions provided.
-- [ ] You have deployed the container with the instructions provided.
-- [ ] You can access the app and its documentation on your local machine.
-- [ ] You can request data and receive it through one of the provided test commands.
+- [ X ] You have built the container with the instructions provided.
+- [ X ] You have deployed the container with the instructions provided.
+- [ X ] You can access the app and its documentation on your local machine.
+- [ X ] You can request data and receive it through one of the provided test commands.
 
 </details>
 
@@ -55,8 +55,8 @@ Visualize the data to better understand it, clean it from outliers, and train a 
 <details>
 <summary>Self-evaluation of your progress</summary>
 
-- [ ] You have read all the information you could gather on the data from the data service.
-- [ ] You have prepared a dataset with at least 1,000 datapoints locally from the data service.
+- [ X ] You have read all the information you could gather on the data from the data service.
+- [ X ] You have prepared a dataset with at least 1,000 datapoints locally from the data service.
 - [ ] You have visualized the data to better understand its structure.
 - [ ] You have cleaned the data of outliers.
 - [ ] You have trained a machine learning model on the data to solve the requested task.
